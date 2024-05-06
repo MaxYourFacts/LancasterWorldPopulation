@@ -1,0 +1,24 @@
+Package: LancasterWorldPopulation
+Title: Graphs the Population of an Inputed Country
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Maximus", family = "Lancaster", email = "mal729@nau.edu", 
+    role = c("aut","cre"))
+Description: The package includes two data frames. The first is World_Cup, which
+  contains information about all the world cups in history, particularly there 
+  average attendance and total attendance. The second is WorldPopulation, 
+  which contains information about the world's population across the years 1950 
+  to 2020. Lastly, there is a function called CountryPopulation, that accepts a 
+  country name as an input and returns the graph from 1950 to 2020 of that 
+  country's population.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
