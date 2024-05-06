@@ -1,0 +1,13 @@
+#' A data frame of the various world cups that have occurred across the world
+#'
+#' @format A data frame with 22 observations with 5 columns:
+#' \describe{
+#'    \item{Year}{The year the world cup was held}
+#'    \item{Hosts}{What country(ies) hosted the world cup}
+#'    \item{Matches}{Number of matches in world cup}
+#'    \item{Totalattendance}{The total attendance at the world cup}
+#'    \item{Averageattendance}{The average attendance at the world cup}
+#' @source
+#' \url{https://en.wikipedia.org/wiki/FIFA_World_Cup}
+#' }
+"World_Cup"

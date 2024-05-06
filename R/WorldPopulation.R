@@ -1,0 +1,80 @@
+#' A world population data frame of populations among the world's countries
+#' from 1950 to 2020
+#'
+#' @format A data frame with 235 observations with 72 columns:
+#' \describe{
+#'    \item{Country Name}{The name of the country}
+#'    \item{1950}{Population of country in 1950, in the thousands}
+#'    \item{1951}{Population of country in 1951, in the thousands}
+#'    \item{1952}{Population of country in 1952, in the thousands}
+#'    \item{1953}{Population of country in 1953, in the thousands}
+#'    \item{1954}{Population of country in 1954, in the thousands}
+#'    \item{1955}{Population of country in 1955, in the thousands}
+#'    \item{1956}{Population of country in 1956, in the thousands}
+#'    \item{1957}{Population of country in 1957, in the thousands}
+#'    \item{1958}{Population of country in 1958, in the thousands}
+#'    \item{1959}{Population of country in 1959, in the thousands}
+#'    \item{1960}{Population of country in 1960, in the thousands}
+#'    \item{1961}{Population of country in 1961, in the thousands}
+#'    \item{1962}{Population of country in 1962, in the thousands}
+#'    \item{1963}{Population of country in 1963, in the thousands}
+#'    \item{1964}{Population of country in 1964, in the thousands}
+#'    \item{1965}{Population of country in 1965, in the thousands}
+#'    \item{1966}{Population of country in 1966, in the thousands}
+#'    \item{1967}{Population of country in 1967, in the thousands}
+#'    \item{1968}{Population of country in 1968, in the thousands}
+#'    \item{1969}{Population of country in 1969, in the thousands}
+#'    \item{1970}{Population of country in 1970, in the thousands}
+#'    \item{1971}{Population of country in 1971, in the thousands}
+#'    \item{1972}{Population of country in 1972, in the thousands}
+#'    \item{1973}{Population of country in 1973, in the thousands}
+#'    \item{1974}{Population of country in 1974, in the thousands}
+#'    \item{1975}{Population of country in 1975, in the thousands}
+#'    \item{1976}{Population of country in 1976, in the thousands}
+#'    \item{1977}{Population of country in 1977, in the thousands}
+#'    \item{1978}{Population of country in 1978, in the thousands}
+#'    \item{1979}{Population of country in 1979, in the thousands}
+#'    \item{1980}{Population of country in 1980, in the thousands}
+#'    \item{1981}{Population of country in 1981, in the thousands}
+#'    \item{1982}{Population of country in 1982, in the thousands}
+#'    \item{1983}{Population of country in 1983, in the thousands}
+#'    \item{1984}{Population of country in 1984, in the thousands}
+#'    \item{1985}{Population of country in 1985, in the thousands}
+#'    \item{1986}{Population of country in 1986, in the thousands}
+#'    \item{1987}{Population of country in 1987, in the thousands}
+#'    \item{1988}{Population of country in 1988, in the thousands}
+#'    \item{1989}{Population of country in 1989, in the thousands}
+#'    \item{1990}{Population of country in 1990, in the thousands}
+#'    \item{1991}{Population of country in 1991, in the thousands}
+#'    \item{1992}{Population of country in 1992, in the thousands}
+#'    \item{1993}{Population of country in 1993, in the thousands}
+#'    \item{1994}{Population of country in 1994, in the thousands}
+#'    \item{1995}{Population of country in 1995, in the thousands}
+#'    \item{1996}{Population of country in 1996, in the thousands}
+#'    \item{1996}{Population of country in 1996, in the thousands}
+#'    \item{1997}{Population of country in 1997, in the thousands}
+#'    \item{1998}{Population of country in 1998, in the thousands}
+#'    \item{1999}{Population of country in 1999, in the thousands}
+#'    \item{2000}{Population of country in 2000, in the thousands}
+#'    \item{2001}{Population of country in 2001, in the thousands}
+#'    \item{2002}{Population of country in 2002, in the thousands}
+#'    \item{2003}{Population of country in 2003, in the thousands}
+#'    \item{2004}{Population of country in 2004, in the thousands}
+#'    \item{2005}{Population of country in 2005, in the thousands}
+#'    \item{2006}{Population of country in 2006, in the thousands}
+#'    \item{2007}{Population of country in 2007, in the thousands}
+#'    \item{2008}{Population of country in 2008, in the thousands}
+#'    \item{2009}{Population of country in 2009, in the thousands}
+#'    \item{2010}{Population of country in 2010, in the thousands}
+#'    \item{2011}{Population of country in 2011, in the thousands}
+#'    \item{2012}{Population of country in 2012, in the thousands}
+#'    \item{2013}{Population of country in 2013, in the thousands}
+#'    \item{2014}{Population of country in 2014, in the thousands}
+#'    \item{2015}{Population of country in 2015, in the thousands}
+#'    \item{2016}{Population of country in 2016, in the thousands}
+#'    \item{2017}{Population of country in 2017, in the thousands}
+#'    \item{2018}{Population of country in 2018, in the thousands}
+#'    \item{2019}{Population of country in 2019, in the thousands}
+#'    \item{2020}{Population of country in 2020, in the thousands}
+#' }
+"WorldPopulation"
