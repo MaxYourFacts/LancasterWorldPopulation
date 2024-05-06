@@ -1,0 +1,18 @@
+---
+title: "STA 445 Final"
+author: "Maximus Lancaster"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, eval=FALSE}
+library(LancasterWorldPopulation) # load LancasterWorldPopulation, which includes WorldPopulation data frame.
+
+library(tidyverse)
+
+CountryPopulation('Australia')
+```
